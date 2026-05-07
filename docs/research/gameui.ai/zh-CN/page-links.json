@@ -1,0 +1,45 @@
+[
+  {
+    "href": "https://gameui.ai/",
+    "text": "GameUI AI",
+    "classes": [
+      "flex",
+      "items-center",
+      "gap-2",
+      "min-w-0"
+    ]
+  },
+  {
+    "href": "https://x.com/gameuiai",
+    "text": "",
+    "classes": [
+      "w-9",
+      "h-9",
+      "group",
+      "flex",
+      "items-center"
+    ]
+  },
+  {
+    "href": "https://space.bilibili.com/43700031",
+    "text": "",
+    "classes": [
+      "w-9",
+      "h-9",
+      "group",
+      "flex",
+      "items-center"
+    ]
+  },
+  {
+    "href": "https://gameui.ai/",
+    "text": "GameUI AI",
+    "classes": [
+      "flex",
+      "items-center",
+      "gap-2",
+      "min-w-0",
+      "md:hidden"
+    ]
+  }
+]

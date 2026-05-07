@@ -1,0 +1,346 @@
+{
+  "images": [
+    {
+      "src": "https://img.gameui.ai/master/web/gameui_logo.svg",
+      "alt": "GameUI AI",
+      "width": 512,
+      "height": 512,
+      "parentClasses": [
+        "flex",
+        "items-center",
+        "gap-2"
+      ],
+      "section": "aside.bg-black"
+    },
+    {
+      "src": "https://img.gameui.ai/style/IYVrInYx3rZiPVOsocYISkYsnRUI0JLh/WJbDfPn3HuxuDtcl.png",
+      "alt": "项目 1 style",
+      "width": 1080,
+      "height": 1080,
+      "parentClasses": [
+        "relative",
+        "w-8",
+        "h-8"
+      ],
+      "section": "aside.bg-black"
+    },
+    {
+      "src": "https://img.gameui.ai/master/web/gameui_logo.svg",
+      "alt": "GameUI AI",
+      "width": 512,
+      "height": 512,
+      "parentClasses": [
+        "flex",
+        "items-center",
+        "gap-2"
+      ],
+      "section": "header.h-16"
+    },
+    {
+      "src": "https://gameui.ai/flow1.webp",
+      "alt": "描述游戏 锁定专属风格",
+      "width": 800,
+      "height": 600,
+      "parentClasses": [
+        "rounded-3xl",
+        "border",
+        "border-white/[0.06]"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://gameui.ai/flow2.webp",
+      "alt": "排版页面 一键生成效果图",
+      "width": 800,
+      "height": 600,
+      "parentClasses": [
+        "rounded-3xl",
+        "border",
+        "border-white/[0.06]"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://gameui.ai/flow3.webp",
+      "alt": "精细切图 一键导出素材",
+      "width": 800,
+      "height": 600,
+      "parentClasses": [
+        "rounded-3xl",
+        "border",
+        "border-white/[0.06]"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://img.gameui.ai/style/twOsj09qOmMK5zRKkUXpAaQLQ7Mqx5u9/yOE5JlGHKr7nlXAA.png",
+      "alt": "糖果农场卡通UI系统",
+      "width": 1024,
+      "height": 1024,
+      "parentClasses": [
+        "group",
+        "relative",
+        "aspect-square"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIGYjMjMiksN_VdYnVjW01_TXrKBa092OY5RUwTzd52Wgh0Zw=s96-c",
+      "alt": "lai lai",
+      "width": 96,
+      "height": 96,
+      "parentClasses": [
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://img.gameui.ai/style/tKyPUEA5lDPzGcA6EVQ2mRXtJNOfznKC/83Oh58A4ynRUrkGK.png",
+      "alt": "像素草坪瓦片精灵图集系统",
+      "width": 1080,
+      "height": 1080,
+      "parentClasses": [
+        "group",
+        "relative",
+        "aspect-square"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJJIANEIgjpIKeBKithk1zG3RG4HImWiech8djWwedGKSX0oQ=s96-c",
+      "alt": "tail kink",
+      "width": 96,
+      "height": 96,
+      "parentClasses": [
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://img.gameui.ai/style/twOsj09qOmMK5zRKkUXpAaQLQ7Mqx5u9/ZsEYTtS1enau4Zh6.png",
+      "alt": "奇趣漂浮群岛卡通UI",
+      "width": 1024,
+      "height": 1024,
+      "parentClasses": [
+        "group",
+        "relative",
+        "aspect-square"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIGYjMjMiksN_VdYnVjW01_TXrKBa092OY5RUwTzd52Wgh0Zw=s96-c",
+      "alt": "lai lai",
+      "width": 96,
+      "height": 96,
+      "parentClasses": [
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://img.gameui.ai/style/twOsj09qOmMK5zRKkUXpAaQLQ7Mqx5u9/f3vqe18YbyKMDsZA.png",
+      "alt": "温馨像素农场管理",
+      "width": 1024,
+      "height": 1024,
+      "parentClasses": [
+        "group",
+        "relative",
+        "aspect-square"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIGYjMjMiksN_VdYnVjW01_TXrKBa092OY5RUwTzd52Wgh0Zw=s96-c",
+      "alt": "lai lai",
+      "width": 96,
+      "height": 96,
+      "parentClasses": [
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://img.gameui.ai/style/twOsj09qOmMK5zRKkUXpAaQLQ7Mqx5u9/VXdiAvokBV37AMWJ.png",
+      "alt": "活力圆润海盗卡通风UI",
+      "width": 1024,
+      "height": 1024,
+      "parentClasses": [
+        "group",
+        "relative",
+        "aspect-square"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIGYjMjMiksN_VdYnVjW01_TXrKBa092OY5RUwTzd52Wgh0Zw=s96-c",
+      "alt": "lai lai",
+      "width": 96,
+      "height": 96,
+      "parentClasses": [
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://img.gameui.ai/style/twOsj09qOmMK5zRKkUXpAaQLQ7Mqx5u9/ZFvOdNoUMftBOz8a.png",
+      "alt": "梦幻咒语学院卡通UI",
+      "width": 1024,
+      "height": 1024,
+      "parentClasses": [
+        "group",
+        "relative",
+        "aspect-square"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIGYjMjMiksN_VdYnVjW01_TXrKBa092OY5RUwTzd52Wgh0Zw=s96-c",
+      "alt": "lai lai",
+      "width": 96,
+      "height": 96,
+      "parentClasses": [
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://img.gameui.ai/style/3zaV3Mj7eIapitTVrpaOeRXSRRdQeOEH/WKayaT6zzCJe6AXH.png",
+      "alt": "柔和森林可爱拼图UI",
+      "width": 1080,
+      "height": 1080,
+      "parentClasses": [
+        "group",
+        "relative",
+        "aspect-square"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/106372074?v=4",
+      "alt": "yoxioo",
+      "width": 420,
+      "height": 420,
+      "parentClasses": [
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ],
+      "section": "section.relative"
+    },
+    {
+      "src": "https://img.gameui.ai/style/DHtWOipLE1zoDJgMYNM5GLk3m8xj1R0g/6Hz7a9VE4YUVwmwZ.png",
+      "alt": "键入灵感的柔和怀旧视觉小说界面",
+      "width": 1080,
+      "height": 1080,
+      "parentClasses": [
+        "group",
+        "relative",
+        "aspect-square"
+      ],
+      "section": "section.relative"
+    }
+  ],
+  "videos": [],
+  "backgroundImages": [
+    {
+      "urls": [],
+      "raw": "radial-gradient(1200px 500px at 50% -8%, rgba(92, 105, 255, 0.22), rgba(0, 0, 0, 0) 60%), none",
+      "element": "HTML."
+    },
+    {
+      "urls": [],
+      "raw": "radial-gradient(1200px 500px at 50% -8%, rgba(92, 105, 255, 0.22), rgba(0, 0, 0, 0) 60%), none",
+      "element": "BODY."
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(to right, rgb(209, 141, 255), rgb(139, 92, 246))",
+      "element": "BUTTON.px-7"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(rgb(17, 17, 17), rgb(6, 6, 6))",
+      "element": "DIV.rounded-3xl"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(rgb(17, 17, 17), rgb(6, 6, 6))",
+      "element": "DIV.rounded-3xl"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(rgb(17, 17, 17), rgb(6, 6, 6))",
+      "element": "DIV.rounded-3xl"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0))",
+      "element": "DIV.absolute"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0))",
+      "element": "DIV.absolute"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0))",
+      "element": "DIV.absolute"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0))",
+      "element": "DIV.absolute"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0))",
+      "element": "DIV.absolute"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0))",
+      "element": "DIV.absolute"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0))",
+      "element": "DIV.absolute"
+    },
+    {
+      "urls": [],
+      "raw": "linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0))",
+      "element": "DIV.absolute"
+    }
+  ],
+  "fonts": [
+    "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  ],
+  "favicons": [
+    {
+      "href": "https://gameui.ai/gameui_logo.svg",
+      "sizes": ""
+    },
+    {
+      "href": "https://gameui.ai/favicon.ico",
+      "sizes": ""
+    },
+    {
+      "href": "https://gameui.ai/apple-touch-icon.png",
+      "sizes": "180x180"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: #000000;
+  --color-foreground: #e5e7eb;
+  --color-primary: #8b5cf6;
+  --color-primary-foreground: #000000;
+  --color-secondary: #1a1a1a;
+  --color-secondary-foreground: #e5e7eb;
+  --color-muted: #262626;
+  --color-muted-foreground: #9ca3af;
+  --color-accent: #5c69ff;
+  --color-border: rgba(255, 255, 255, 0.06);
+  --color-ring: #8b5cf6;
+  --color-card: #111111;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* 顶部渐变光晕 */
+.hero-glow {
+  background: radial-gradient(1200px 500px at 50% -8%, rgba(92, 105, 255, 0.22), rgba(0, 0, 0, 0) 60%);
+}
+
+/* CTA 按钮渐变 */
+.btn-gradient {
+  background: linear-gradient(to right, rgb(209, 141, 255), rgb(139, 92, 246));
+}
+
+/* 工作流卡片背景 */
+.card-dark {
+  background: linear-gradient(rgb(17, 17, 17), rgb(6, 6, 6));
+}
+
+/* 项目卡片覆盖层 */
+.card-overlay {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0));
+}
+
+/* 自定义滚动条 */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}

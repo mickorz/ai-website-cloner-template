@@ -1,0 +1,58 @@
+[
+  {
+    "tag": "textarea",
+    "type": "textarea",
+    "name": "",
+    "placeholder": "详细描述你想制作的游戏风格、类型、色调、画风与目标人群。例如：面向 25–34 岁男性玩家的赛博朋克放置 RPG，暗色霓虹主基调，冷色调科技 HUD，日系厚涂卡通造型，适配移动端竖屏。",
+    "value": "",
+    "required": false,
+    "maxLength": 2000,
+    "checked": null,
+    "classes": [
+      "w-full",
+      "min-h-[170px]",
+      "sm:min-h-[200px]",
+      "bg-transparent",
+      "text-gray-100"
+    ],
+    "id": "",
+    "rows": 2,
+    "ariaLabel": ""
+  },
+  {
+    "tag": "input",
+    "type": "file",
+    "name": "",
+    "placeholder": "",
+    "value": "",
+    "required": false,
+    "maxLength": null,
+    "checked": null,
+    "classes": [
+      "hidden"
+    ],
+    "id": "",
+    "rows": null,
+    "ariaLabel": ""
+  },
+  {
+    "tag": "input",
+    "type": "checkbox",
+    "name": "",
+    "placeholder": "",
+    "value": "on",
+    "required": false,
+    "maxLength": null,
+    "checked": null,
+    "classes": [
+      "w-4",
+      "h-4",
+      "rounded",
+      "border-white/20",
+      "bg-black/40"
+    ],
+    "id": "",
+    "rows": null,
+    "ariaLabel": ""
+  }
+]

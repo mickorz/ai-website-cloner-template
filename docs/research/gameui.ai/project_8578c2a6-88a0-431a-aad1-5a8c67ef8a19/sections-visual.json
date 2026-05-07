@@ -1,0 +1,80 @@
+[
+  {
+    "tag": "html",
+    "id": "",
+    "classes": [
+      "project-editor-page"
+    ],
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 900
+    },
+    "text": "Dark Myth Chibi Cartoon RPG UI | GameUI.ai\n*,:after,:before{--tw-border-spacing-x:0;--tw-border-spac",
+    "childCount": 2
+  },
+  {
+    "tag": "aside",
+    "id": "",
+    "classes": [
+      "w-72",
+      "bg-neutral-950",
+      "border-r",
+      "border-neutral-800",
+      "transition-all",
+      "duration-300",
+      "flex",
+      "flex-col"
+    ],
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 288,
+      "h": 900
+    },
+    "text": "GameUI AIDark Myth Chibi Cartoon RPG UI卡通更换添加节点我的 GUI (1)Home界面关注我们B",
+    "childCount": 5
+  },
+  {
+    "tag": "header",
+    "id": "",
+    "classes": [
+      "h-16",
+      "bg-neutral-950",
+      "border-b",
+      "border-neutral-800",
+      "flex",
+      "items-center",
+      "justify-between",
+      "px-4"
+    ],
+    "rect": {
+      "x": 288,
+      "y": 0,
+      "w": 1152,
+      "h": 64
+    },
+    "text": "Docs  免费积分 C",
+    "childCount": 4
+  },
+  {
+    "tag": "main",
+    "id": "",
+    "classes": [
+      "flex-1",
+      "relative",
+      "overflow-hidden",
+      "bg-neutral-950",
+      "select-none"
+    ],
+    "rect": {
+      "x": 288,
+      "y": 64,
+      "w": 1152,
+      "h": 836
+    },
+    "text": "项目 1Home界面布局编辑布局结果图微调结果编辑资源 v110重新生成回收站2",
+    "childCount": 3
+  }
+]

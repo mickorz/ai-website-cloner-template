@@ -1,0 +1,35 @@
+[
+  {
+    "href": "https://x.com/gameuiai",
+    "text": "",
+    "classes": [
+      "p-2",
+      "rounded-lg",
+      "text-gray-400",
+      "hover:text-white",
+      "hover:bg-neutral-900"
+    ]
+  },
+  {
+    "href": "https://space.bilibili.com/43700031",
+    "text": "B",
+    "classes": [
+      "p-2",
+      "rounded-lg",
+      "text-gray-400",
+      "hover:text-white",
+      "hover:bg-neutral-900"
+    ]
+  },
+  {
+    "href": "https://gameui.ai/docs",
+    "text": "Docs",
+    "classes": [
+      "text-gray-300",
+      "hover:text-white",
+      "font-medium",
+      "text-sm",
+      "px-3"
+    ]
+  }
+]

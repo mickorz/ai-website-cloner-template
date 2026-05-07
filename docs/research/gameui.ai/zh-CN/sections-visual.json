@@ -1,0 +1,126 @@
+[
+  {
+    "tag": "section",
+    "id": "",
+    "classes": [
+      "relative",
+      "py-14",
+      "sm:py-20",
+      "md:py-24",
+      "overflow-hidden",
+      "bg-black"
+    ],
+    "rect": {
+      "x": 288,
+      "y": -89,
+      "w": 1144,
+      "h": 729
+    },
+    "text": "锁定你的风格详细描述你想制作的游戏类型、题材、色调、画风与目标人群，AI 将为你生成可复用的风格锁，驱动整套 UI 资产在同一美学下产出。风格选择自动卡通写实手绘扁平3D像素上传几张游戏截图可更精准锁",
+    "childCount": 2
+  },
+  {
+    "tag": "aside",
+    "id": "",
+    "classes": [
+      "bg-black",
+      "border-r",
+      "border-white/[0.06]",
+      "transition-all",
+      "duration-300",
+      "flex",
+      "flex-col",
+      "min-h-0"
+    ],
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 288,
+      "h": 900
+    },
+    "text": "GameUI AI我的项目我的画风项目 122 小时前 - 便捷功能切图换皮使用文档意见反馈关注我们",
+    "childCount": 4
+  },
+  {
+    "tag": "header",
+    "id": "",
+    "classes": [
+      "h-16",
+      "bg-black",
+      "border-b",
+      "border-white/[0.06]",
+      "flex",
+      "items-center",
+      "justify-between",
+      "px-4"
+    ],
+    "rect": {
+      "x": 288,
+      "y": 0,
+      "w": 1152,
+      "h": 64
+    },
+    "text": "GameUI AI首页风格项目版本 免费积分 C",
+    "childCount": 3
+  },
+  {
+    "tag": "main",
+    "id": "",
+    "classes": [
+      "flex-1",
+      "overflow-y-auto",
+      "overflow-x-hidden",
+      "min-w-0",
+      "w-full",
+      "p-0"
+    ],
+    "rect": {
+      "x": 288,
+      "y": 64,
+      "w": 1152,
+      "h": 836
+    },
+    "text": "基于顶尖多模态大模型的游戏 UI 平台：从游戏截图到可商用 UI 素材包，一站式完成。 锁定你的风格详细描述你想制作的游戏类型、题材、色调、画风与目标人群，AI 将为你生成可复用的风格锁，驱动整套 U",
+    "childCount": 2
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "classes": [
+      "relative",
+      "py-12",
+      "sm:py-16",
+      "md:py-20",
+      "bg-black",
+      "overflow-hidden"
+    ],
+    "rect": {
+      "x": 288,
+      "y": 640,
+      "w": 1144,
+      "h": 602
+    },
+    "text": "工作流锁定统一风格之后，排版、出图、切图一路贯通，无需反复调教提示词。01 · 描述游戏，锁定专属风格输入游戏类型、题材、色调与人群，AI 生成可复用的风格锁。02 · 排版页面，一键出效果图拖拽或上",
+    "childCount": 2
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "classes": [
+      "relative",
+      "py-10",
+      "sm:py-14",
+      "md:py-16",
+      "bg-black",
+      "overflow-hidden"
+    ],
+    "rect": {
+      "x": 288,
+      "y": 1242,
+      "w": 1144,
+      "h": 858
+    },
+    "text": "公开公开项目公开风格开始创作糖果农场卡通UI系统lai lai 2开始创作像素草坪瓦片精灵图集系统tail kink 1开始创作奇趣漂浮群岛卡通UIlai lai 1开始创作温馨像素农场管理lai l",
+    "childCount": 2
+  }
+]
